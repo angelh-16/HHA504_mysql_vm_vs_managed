@@ -39,6 +39,7 @@
 
 12. Enter `mysql -u xxx -p` to locally test the user connection to mysql
 13. Enter the password you set to the username
+14. Run the code and show database
 ![screenshot](../images/vm/vm5.png)
 ![screenshot](../images/vm/vm6.png)
 ![screenshot](../images/vm/vm7.png)
