@@ -30,10 +30,18 @@
 8. Close and reopen SSH and enter `sudo apt install nano`
 9. Enter `sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf`
 10. Change the bind-address and mysqlx-bind-address to `0.0.0.0/0`
+
+![screenshot](../images/vm/vm3.png)
+
 11. Researt SSH with `sudo systemctl restart mysql` and check status using `systemctl status mysql`
-12. 
-12. input `mysql -u xxx -p` to locally test the user connection to mysql
-13. Input the password you set to the username
+
+![screenshot](../images/vm/vm4.png)
+
+12. Enter `mysql -u xxx -p` to locally test the user connection to mysql
+13. Enter the password you set to the username
+![screenshot](../images/vm/vm5.png)
+![screenshot](../images/vm/vm6.png)
+![screenshot](../images/vm/vm7.png)
 
 ## Total time
  ~50 minutes
