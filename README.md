@@ -33,7 +33,20 @@ Cloud SQL Region:
   * Any automatic backups/HA configuration chosen
 
 ## Screenshots
-### Managed 
-![screenshot](images/managed/create_firewall.png) 
 ### VM
-![screenshot](images/vm/create_firewall.png) 
+![screenshot](images/vm/vm1.png)
+![screenshot](images/vm/vm2.png) 
+![screenshot](images/vm/vm3.png) 
+![screenshot](images/vm/vm4.png) 
+![screenshot](images/vm/vm5.png) 
+![screenshot](images/vm/vm6.png) 
+![screenshot](images/vm/vm7.png) 
+
+### Managed 
+![screenshot](images/managed/m1.png)
+![screenshot](images/managed/m2.png)
+![screenshot](images/managed/m3.png)
+![screenshot](images/managed/m4.png)
+![screenshot](images/managed/m5.png)
+![screenshot](images/managed/m6.png)
+![screenshot](images/managed/m4.png)

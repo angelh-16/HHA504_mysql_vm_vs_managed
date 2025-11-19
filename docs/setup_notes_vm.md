@@ -7,12 +7,15 @@
 5. Go to OS and storage and select Ubuntu OS system.
 6. Everything else will be kept at default
 7. Create VM
+![screenshot](images/vm/cm1.png) \
+
 
 ## Firewall configuration
 1. Create a firewall rule
 2. Give it a name
 3. Fill in IP range to 0.0.0.0/0 to allow all IPs
 4. Fill in protocol to tcp: 3306
+![screenshot](images/vm/vm2.png)
 
 ## SSH steps
 1. Go back to VM instances
