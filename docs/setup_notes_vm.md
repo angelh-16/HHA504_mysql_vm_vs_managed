@@ -8,7 +8,7 @@
 6. Everything else will be kept at default
 7. Create VM
 
-![screenshot](images/vm/vm1.png)
+![screenshot](../images/vm/vm1.png)
 
 
 ## Firewall configuration
@@ -17,7 +17,7 @@
 3. Fill in IP range to 0.0.0.0/0 to allow all IPs
 4. Fill in protocol to tcp: 3306
 
-![screenshot](images/vm/vm2.png)
+![screenshot](../images/vm/vm2.png)
 
 ## SSH steps
 1. Go back to VM instances
