@@ -27,10 +27,10 @@ Cloud SQL Region:
    * Optional: set up an SSH tunnel from your dev machine instead of opening 3306 publicly
 ### Managed:
 1. Create the provider’s managed MySQL with a small tier
-  * Engine version, vCPU/RAM tier
-  * Network model (public IP allowlist)
-  * Initial admin user, DB name
-  * Any automatic backups/HA configuration chosen
+   * Engine version, vCPU/RAM tier
+   * Network model (public IP allowlist)
+   * Initial admin user, DB name
+   * Any automatic backups/HA configuration chosen
 
 ## Screenshots
 ### VM
@@ -49,4 +49,3 @@ Cloud SQL Region:
 ![screenshot](images/managed/m4.png)
 ![screenshot](images/managed/m5.png)
 ![screenshot](images/managed/m6.png)
-![screenshot](images/managed/m4.png)

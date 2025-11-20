@@ -5,7 +5,7 @@
 3. Select the region and zone of your preference
 4. Select E2 and choose e2-small
 5. Go to OS and storage and select Ubuntu OS system.
-6. Everything else will be kept at default
+6. Leave everything else on default
 7. Create VM
 
 ![screenshot](../images/vm/vm1.png)
