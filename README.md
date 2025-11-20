@@ -9,7 +9,7 @@ VM Zone: us-central1-c
 Cloud SQL Region: 
 
 ## Video recording 
-- Zoom video: [link]()
+- Zoom video: [link](https://drive.google.com/file/d/1CFQDkMXV1dFcFITAaMKnR8jDE-ipBkay/view?usp=sharing)
 
 ## Steps 
 ### VM:
